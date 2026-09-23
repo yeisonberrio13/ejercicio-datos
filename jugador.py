@@ -5,3 +5,7 @@ class jugador:
 
     def describir(self):
         return f"{self.nombre} tiene {self.edad} años"
+
+
+jugador1 = jugador("yeison ", 28)
+    
